@@ -3,7 +3,7 @@
 <img src="/P_20161004_021716.jpg" />
 
 <p>使用MSP430(On launchpad)開發的輝光管時鐘</p>
-<p>你可以在 https://www.youtube.com/watch?v=W8xdciFAuEY 看到他實際運作的影片</p>
+<p>你可以在 https://youtu.be/BvhtH7Z5yJI 看到他實際運作的影片</p>
 <p>感謝醫學工程所 張家綱學長協助完成硬體電路</p>
 <br>
 <p>這個專題使用了在冷戰時期廣泛使用的輝光管當作數字顯示器</p>
